@@ -1,3 +1,3 @@
 # lessons.stud
  
-here we publishing specific lessons in university
+here we publishing specific lessons
